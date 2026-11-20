@@ -1,3 +1,6 @@
 [gd_scene format=3 uid="uid://ce6jkbue6ghb2"]
 
-[node name="Node2D" type="Node2D" unique_id=1861283008]
+[ext_resource type="Script" uid="uid://dfmmeh6m1gbwn" path="res://cooking_game.gd" id="1_v16bl"]
+
+[node name="Node3D" type="Node3D" unique_id=962872706]
+script = ExtResource("1_v16bl")
